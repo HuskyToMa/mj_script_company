@@ -1,0 +1,51 @@
+2020-04-25 16:16:48,047 INFO 6650 [egg:logger] init all loggers with options: {"dir":"/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/logs/mj_script_company","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"mj_script_company-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-04-25 16:16:48,068 INFO 6650 [egg-multipart] stream mode enable
+2020-04-25 16:16:48,138 INFO 6650 [egg-static] starting static serve /public/ -> /Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/app/public
+2020-04-25 16:16:48,139 INFO 6650 [egg-security] use csrf middleware
+2020-04-25 16:16:48,140 INFO 6650 [egg-security] use methodnoallow middleware
+2020-04-25 16:16:48,141 INFO 6650 [egg-security] use noopen middleware
+2020-04-25 16:16:48,142 INFO 6650 [egg-security] use nosniff middleware
+2020-04-25 16:16:48,142 INFO 6650 [egg-security] use xssProtection middleware
+2020-04-25 16:16:48,143 INFO 6650 [egg-security] use xframe middleware
+2020-04-25 16:16:48,144 INFO 6650 [egg-security] use dta middleware
+2020-04-25 16:16:48,144 INFO 6650 [egg-security] compose 7 middlewares into one security middleware
+2020-04-25 16:16:48,151 INFO 6650 [egg:core] dump config after load, 3ms
+2020-04-25 16:16:48,160 INFO 6650 [egg-watcher:application] watcher start success
+2020-04-25 16:16:48,165 INFO 6650 [egg:core] dump config after ready, 3ms
+2020-04-25 16:17:39,959 INFO 6680 [egg:logger] init all loggers with options: {"dir":"/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/logs/mj_script_company","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"mj_script_company-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-04-25 16:17:39,987 INFO 6680 [egg-multipart] stream mode enable
+2020-04-25 16:17:40,048 INFO 6680 [egg-static] starting static serve /public/ -> /Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/app/public
+2020-04-25 16:17:40,050 INFO 6680 [egg-security] use csrf middleware
+2020-04-25 16:17:40,051 INFO 6680 [egg-security] use methodnoallow middleware
+2020-04-25 16:17:40,051 INFO 6680 [egg-security] use noopen middleware
+2020-04-25 16:17:40,052 INFO 6680 [egg-security] use nosniff middleware
+2020-04-25 16:17:40,053 INFO 6680 [egg-security] use xssProtection middleware
+2020-04-25 16:17:40,053 INFO 6680 [egg-security] use xframe middleware
+2020-04-25 16:17:40,054 INFO 6680 [egg-security] use dta middleware
+2020-04-25 16:17:40,054 INFO 6680 [egg-security] compose 7 middlewares into one security middleware
+2020-04-25 16:17:40,061 INFO 6680 [egg:core] dump config after load, 4ms
+2020-04-25 16:17:40,068 INFO 6680 [egg-watcher:application] watcher start success
+2020-04-25 16:17:40,072 INFO 6680 [egg:core] dump config after ready, 3ms
+2020-04-25 16:21:01,209 INFO 6757 [egg:logger] init all loggers with options: {"dir":"/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/logs/mj_script_company","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"mj_script_company-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-04-25 16:21:01,240 INFO 6757 [egg-multipart] stream mode enable
+2020-04-25 16:21:01,312 INFO 6757 [egg-static] starting static serve /public/ -> /Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/app/public
+2020-04-25 16:21:01,314 INFO 6757 [egg-security] use csrf middleware
+2020-04-25 16:21:01,315 INFO 6757 [egg-security] use methodnoallow middleware
+2020-04-25 16:21:01,317 INFO 6757 [egg-security] use noopen middleware
+2020-04-25 16:21:01,318 INFO 6757 [egg-security] use nosniff middleware
+2020-04-25 16:21:01,318 INFO 6757 [egg-security] use xssProtection middleware
+2020-04-25 16:21:01,319 INFO 6757 [egg-security] use xframe middleware
+2020-04-25 16:21:01,320 INFO 6757 [egg-security] use dta middleware
+2020-04-25 16:21:01,320 INFO 6757 [egg-security] compose 7 middlewares into one security middleware
+2020-04-25 16:21:01,328 INFO 6757 [egg:core] dump config after load, 4ms
+2020-04-25 16:21:01,335 INFO 6757 [egg-watcher:application] watcher start success
+2020-04-25 16:21:01,339 INFO 6757 [egg:core] dump config after ready, 3ms
+2020-04-25 17:49:44,745 WARN 6757 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-04-25 19:35:44,768 WARN 6757 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-04-25 21:23:43,046 WARN 6757 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2020-04-25 21:23:43,049 WARN 6757 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-04-26 00:59:57,648 WARN 6757 [TCPBase] socket is closed by other side while there were still unhandled data in the socket buffer
+2020-04-26 00:59:57,653 WARN 6757 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-04-26 02:48:08,283 WARN 6757 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-04-26 04:36:19,488 WARN 6757 [ClusterClient:Watcher] follower closed, and try to init it again
+2020-04-28 23:16:22,282 WARN 6757 [ClusterClient:Watcher] follower closed, and try to init it again

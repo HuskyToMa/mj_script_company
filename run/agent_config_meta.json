@@ -1,0 +1,273 @@
+{
+  "key": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/config/config.js",
+  "session": {
+    "maxAge": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg-session/config/config.default.js",
+    "key": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg-session/config/config.default.js",
+    "httpOnly": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg-session/config/config.default.js",
+    "encrypt": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg-session/config/config.default.js"
+  },
+  "security": {
+    "domainWhiteList": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg-security/config/config.default.js",
+    "protocolWhiteList": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg-security/config/config.default.js",
+    "defaultMiddleware": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg-security/config/config.default.js",
+    "csrf": {
+      "enable": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg-security/config/config.default.js",
+      "type": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg-security/config/config.default.js",
+      "ignoreJSON": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg-security/config/config.default.js",
+      "useSession": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg-security/config/config.default.js",
+      "cookieName": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg-security/config/config.default.js",
+      "sessionName": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg-security/config/config.default.js",
+      "headerName": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg-security/config/config.default.js",
+      "bodyName": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg-security/config/config.default.js",
+      "queryName": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg-security/config/config.default.js",
+      "refererWhiteList": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg-security/config/config.default.js"
+    },
+    "xframe": {
+      "enable": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg-security/config/config.default.js"
+    },
+    "hsts": {
+      "enable": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg-security/config/config.local.js",
+      "maxAge": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg-security/config/config.default.js",
+      "includeSubdomains": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg-security/config/config.default.js"
+    },
+    "dta": {
+      "enable": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg-security/config/config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg-security/config/config.default.js"
+    },
+    "noopen": {
+      "enable": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg-security/config/config.default.js"
+    },
+    "nosniff": {
+      "enable": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg-security/config/config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg-security/config/config.default.js"
+    },
+    "xssProtection": {
+      "enable": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg-security/config/config.default.js"
+    },
+    "csp": {
+      "enable": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg-security/config/config.default.js",
+      "policy": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg-security/config/config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg-security/config/config.default.js",
+      "checkAddress": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg-security/config/config.default.js"
+    }
+  },
+  "helper": {
+    "shtml": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg-security/config/config.default.js"
+  },
+  "jsonp": {
+    "limit": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg-jsonp/config/config.default.js",
+    "callback": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg-jsonp/config/config.default.js",
+    "csrf": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg-jsonp/config/config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg-onerror/config/config.default.js",
+    "appErrorFilter": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg-onerror/config/config.default.js",
+    "templatePath": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg-onerror/config/config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg-i18n/config/config.default.js",
+    "dirs": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg-i18n/config/config.default.js",
+    "queryField": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg-i18n/config/config.default.js",
+    "cookieField": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg-i18n/config/config.default.js",
+    "cookieDomain": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg-i18n/config/config.default.js",
+    "cookieMaxAge": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg-i18n/config/config.default.js"
+  },
+  "watcher": {
+    "type": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg-watcher/config/config.local.js",
+    "eventSources": {
+      "default": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg-watcher/config/config.default.js",
+      "development": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg-watcher/config/config.default.js"
+    }
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg-schedule/config/config.default.js",
+      "file": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg-schedule/config/config.default.js"
+    }
+  },
+  "schedule": {
+    "directory": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg-schedule/config/config.default.js"
+  },
+  "multipart": {
+    "mode": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg-multipart/config/config.default.js",
+    "autoFields": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg-multipart/config/config.default.js",
+    "defaultCharset": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg-multipart/config/config.default.js",
+    "fieldNameSize": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg-multipart/config/config.default.js",
+    "fieldSize": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg-multipart/config/config.default.js",
+    "fields": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg-multipart/config/config.default.js",
+    "fileSize": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg-multipart/config/config.default.js",
+    "files": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg-multipart/config/config.default.js",
+    "fileExtensions": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg-multipart/config/config.default.js",
+    "whitelist": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg-multipart/config/config.default.js",
+    "tmpdir": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg-multipart/config/config.default.js",
+    "cleanSchedule": {
+      "cron": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg-multipart/config/config.default.js"
+    }
+  },
+  "development": {
+    "watchDirs": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg-development/config/config.default.js",
+    "ignoreDirs": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg-development/config/config.default.js",
+    "fastReady": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg-development/config/config.default.js",
+    "reloadOnDebug": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg-development/config/config.default.js",
+    "overrideDefault": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg-development/config/config.default.js"
+  },
+  "logrotator": {
+    "filesRotateByHour": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg-logrotator/config/config.default.js",
+    "hourDelimiter": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg-logrotator/config/config.default.js",
+    "filesRotateBySize": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg-logrotator/config/config.default.js",
+    "maxFileSize": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg-logrotator/config/config.default.js",
+    "maxFiles": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg-logrotator/config/config.default.js",
+    "rotateDuration": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg-logrotator/config/config.default.js",
+    "maxDays": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg-logrotator/config/config.default.js"
+  },
+  "static": {
+    "prefix": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg-static/config/config.default.js",
+    "dir": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg-static/config/config.default.js",
+    "dynamic": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg-static/config/config.default.js",
+    "preload": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg-static/config/config.default.js",
+    "buffer": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg-static/config/config.default.js",
+    "maxFiles": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg-static/config/config.default.js"
+  },
+  "view": {
+    "root": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg-view/config/config.default.js",
+    "cache": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg-view/config/config.local.js",
+    "defaultExtension": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg-view/config/config.default.js",
+    "defaultViewEngine": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg-view/config/config.default.js",
+    "mapping": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg-view/config/config.default.js"
+  },
+  "env": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg/config/config.default.js",
+  "name": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg/config/config.default.js",
+  "keys": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg/config/config.default.js",
+  "cookies": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg/config/config.default.js",
+  "proxy": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg/config/config.default.js",
+  "maxIpsCount": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg/config/config.default.js",
+  "maxProxyCount": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg/config/config.default.js",
+  "protocolHeaders": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg/config/config.default.js",
+  "ipHeaders": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg/config/config.default.js",
+  "hostHeaders": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg/config/config.default.js",
+  "pkg": {
+    "name": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg/config/config.default.js",
+    "version": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg/config/config.default.js",
+    "description": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg/config/config.default.js",
+    "main": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg/config/config.default.js",
+    "scripts": {
+      "dev": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg/config/config.default.js"
+    },
+    "repository": {
+      "type": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg/config/config.default.js",
+      "url": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg/config/config.default.js"
+    },
+    "keywords": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg/config/config.default.js",
+    "author": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg/config/config.default.js",
+    "license": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg/config/config.default.js",
+    "bugs": {
+      "url": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg/config/config.default.js"
+    },
+    "homepage": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg/config/config.default.js",
+    "dependencies": {
+      "egg": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg/config/config.default.js"
+    },
+    "devDependencies": {
+      "egg-bin": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg/config/config.default.js"
+    }
+  },
+  "baseDir": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg/config/config.default.js",
+  "HOME": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg/config/config.default.js",
+  "rundir": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg/config/config.default.js",
+  "dump": {
+    "ignore": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg/config/config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg/config/config.default.js",
+    "notFound": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg/config/config.default.js",
+    "sitefile": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg/config/config.default.js",
+    "middlewares": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg/config/config.default.js",
+    "httpClient": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg/config/config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg/config/config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg/config/config.default.js"
+  },
+  "bodyParser": {
+    "enable": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg/config/config.default.js",
+    "formLimit": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg/config/config.default.js",
+    "jsonLimit": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg/config/config.default.js",
+    "textLimit": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg/config/config.default.js",
+    "strict": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg/config/config.default.js",
+    "queryString": {
+      "arrayLimit": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg/config/config.default.js",
+      "depth": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg/config/config.default.js",
+      "parameterLimit": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg/config/config.default.js"
+    },
+    "onerror": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg/config/config.default.js"
+  },
+  "logger": {
+    "dir": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg/config/config.default.js",
+    "env": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg/config/config.default.js",
+    "level": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg/config/config.default.js",
+    "consoleLevel": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg/config/config.default.js",
+    "disableConsoleAfterReady": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg/config/config.default.js",
+    "outputJSON": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg/config/config.default.js",
+    "buffer": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg/config/config.default.js",
+    "appLogName": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg/config/config.default.js",
+    "coreLogName": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg/config/config.default.js",
+    "agentLogName": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg/config/config.default.js",
+    "errorLogName": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg/config/config.default.js",
+    "coreLogger": {
+      "consoleLevel": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg/config/config.local.js"
+    },
+    "allowDebugAtProd": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg/config/config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg/config/config.default.js",
+    "dnsCacheLookupInterval": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg/config/config.default.js",
+    "dnsCacheMaxLength": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg/config/config.default.js",
+    "request": {
+      "timeout": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg/config/config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg/config/config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg/config/config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg/config/config.default.js",
+    "logging": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg/config/config.default.js"
+  },
+  "coreMiddleware": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg/config/config.default.js",
+  "workerStartTimeout": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg/config/config.default.js",
+  "serverTimeout": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg/config/config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg/config/config.default.js",
+      "port": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg/config/config.default.js",
+      "hostname": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg/config/config.default.js"
+    }
+  },
+  "clusterClient": {
+    "maxWaitTime": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg/config/config.default.js",
+    "responseTimeout": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg/config/config.default.js"
+  },
+  "onClientError": "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg/config/config.default.js"
+}

@@ -1,0 +1,74 @@
+2020-04-25 16:16:47,575 INFO 6649 [egg:logger] init all loggers with options: {"dir":"/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/logs/mj_script_company","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"mj_script_company-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2020-04-25 16:16:47,582 INFO 6649 [egg:core] dump config after load, 4ms
+2020-04-25 16:16:47,622 INFO 6649 [egg-watcher] Start watching: ["/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/app","/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/config","/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/mocks","/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/mocks_proxy","/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/app.js"]
+2020-04-25 16:16:47,622 INFO 6649 [egg-watcher] Start watching: "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/app"
+2020-04-25 16:16:47,622 INFO 6649 [egg-watcher] Start watching: "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/config"
+2020-04-25 16:16:47,622 INFO 6649 [egg-watcher] Start watching: "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/mocks"
+2020-04-25 16:16:47,622 INFO 6649 [egg-watcher] Start watching: "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/mocks_proxy"
+2020-04-25 16:16:47,622 INFO 6649 [egg-watcher] Start watching: "/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/app.js"
+2020-04-25 16:16:47,622 INFO 6649 [egg-watcher:agent] watcher start success
+2020-04-25 16:16:47,635 INFO 6649 [egg:core] dump config after ready, 3ms
+2020-04-25 16:16:48,150 INFO 6649 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/app/public","stat":{"dev":16777220,"mode":16877,"nlink":2,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":38782873,"size":64,"blocks":0,"atimeMs":1587802608137.9946,"mtimeMs":1587802608137.9946,"ctimeMs":1587802608137.9946,"birthtimeMs":1587802608137.9946,"atime":"2020-04-25T08:16:48.138Z","mtime":"2020-04-25T08:16:48.138Z","ctime":"2020-04-25T08:16:48.138Z","birthtime":"2020-04-25T08:16:48.138Z"},"remove":false,"isDirectory":true,"isFile":false}
+2020-04-25 16:17:39,233 WARN 6649 [agent:development] reload worker because /Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/config/config.js change
+2020-04-25 16:17:39,029 INFO 6649 [egg-watcher] Received a change event from eventSource: {"event":"change","path":"/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/config/config.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":38766549,"size":32,"blocks":8,"atimeMs":1587802659028.391,"mtimeMs":1587802658967.5786,"ctimeMs":1587802658967.5786,"birthtimeMs":1587802373104.627,"atime":"2020-04-25T08:17:39.028Z","mtime":"2020-04-25T08:17:38.968Z","ctime":"2020-04-25T08:17:38.968Z","birthtime":"2020-04-25T08:12:53.105Z"},"remove":false,"isDirectory":false,"isFile":true}
+2020-04-25 16:20:36,819 INFO 6649 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/app/middreware","stat":{"dev":16777220,"mode":16877,"nlink":2,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":38783135,"size":64,"blocks":0,"atimeMs":1587802836818.49,"mtimeMs":1587802836757.8303,"ctimeMs":1587802836757.8303,"birthtimeMs":1587802836757.8303,"atime":"2020-04-25T08:20:36.818Z","mtime":"2020-04-25T08:20:36.758Z","ctime":"2020-04-25T08:20:36.758Z","birthtime":"2020-04-25T08:20:36.758Z"},"remove":false,"isDirectory":true,"isFile":false}
+2020-04-25 16:20:44,511 INFO 6649 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/app/middreware","remove":true,"isDirectory":true,"isFile":false}
+2020-04-25 16:20:44,512 INFO 6649 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/app/middleware","stat":{"dev":16777220,"mode":16877,"nlink":2,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":38783135,"size":64,"blocks":0,"atimeMs":1587802844509.1543,"mtimeMs":1587802836757.8303,"ctimeMs":1587802844498.8052,"birthtimeMs":1587802836757.8303,"atime":"2020-04-25T08:20:44.509Z","mtime":"2020-04-25T08:20:36.758Z","ctime":"2020-04-25T08:20:44.499Z","birthtime":"2020-04-25T08:20:36.758Z"},"remove":false,"isDirectory":true,"isFile":false}
+2020-04-25 16:21:00,434 WARN 6649 [agent:development] reload worker because /Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/app/middleware/test.js rename
+2020-04-25 16:21:00,233 INFO 6649 [egg-watcher] Received a change event from eventSource: {"event":"rename","path":"/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/app/middleware/test.js","stat":{"dev":16777220,"mode":33188,"nlink":1,"uid":501,"gid":20,"rdev":0,"blksize":4096,"ino":38783174,"size":0,"blocks":0,"atimeMs":1587802860223.0745,"mtimeMs":1587802860161.2168,"ctimeMs":1587802860161.2168,"birthtimeMs":1587802860161.2168,"atime":"2020-04-25T08:21:00.223Z","mtime":"2020-04-25T08:21:00.161Z","ctime":"2020-04-25T08:21:00.161Z","birthtime":"2020-04-25T08:21:00.161Z"},"remove":false,"isDirectory":false,"isFile":true}
+2020-04-25 17:49:44,748 ERROR 6649 nodejs.ClusterClientNoResponseError: client no response in 3537812ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 6649
+hostname: maqixiangdeMacBook-Pro.local
+
+2020-04-25 19:35:44,768 ERROR 6649 nodejs.ClusterClientNoResponseError: client no response in 6360017ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 6649
+hostname: maqixiangdeMacBook-Pro.local
+
+2020-04-25 21:23:43,048 ERROR 6649 nodejs.ClusterClientNoResponseError: client no response in 6478177ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 6649
+hostname: maqixiangdeMacBook-Pro.local
+
+2020-04-26 00:59:57,652 ERROR 6649 nodejs.ClusterClientNoResponseError: client no response in 12954595ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 6649
+hostname: maqixiangdeMacBook-Pro.local
+
+2020-04-26 02:48:08,284 ERROR 6649 nodejs.ClusterClientNoResponseError: client no response in 6490590ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 6649
+hostname: maqixiangdeMacBook-Pro.local
+
+2020-04-26 04:36:19,491 ERROR 6649 nodejs.ClusterClientNoResponseError: client no response in 6491186ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 6649
+hostname: maqixiangdeMacBook-Pro.local
+
+2020-04-28 23:16:22,282 ERROR 6649 nodejs.ClusterClientNoResponseError: client no response in 239982743ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 6649
+hostname: maqixiangdeMacBook-Pro.local
+

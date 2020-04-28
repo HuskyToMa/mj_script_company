@@ -1,0 +1,71 @@
+2020-04-25 16:17:11,265 ERROR 6650 [-/127.0.0.1/-/4ms GET /] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg/lib/application.js:266:15)
+    at Object.get cookies [as cookies] (/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg/app/extend/context.js:22:66)
+    at Object.get [egg-security#CSRF_SECRET] (/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg-security/app/extend/context.js:91:35)
+    at Object.ensureCsrfSecret (/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg-security/app/extend/context.js:104:13)
+    at csrf (/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg-security/lib/middlewares/csrf.js:15:11)
+    at dispatch (/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg-security/node_modules/koa-compose/index.js:42:32)
+    at /Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/egg-security/node_modules/koa-compose/index.js:34:12
+    at dispatch (/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+    at session (/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/koa-session/index.js:41:13)
+    at dispatch (/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/koa/node_modules/koa-compose/index.js:42:32)
+
+pid: 6650
+hostname: maqixiangdeMacBook-Pro.local
+
+2020-04-25 17:49:44,748 ERROR 6649 nodejs.ClusterClientNoResponseError: client no response in 3537812ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 6649
+hostname: maqixiangdeMacBook-Pro.local
+
+2020-04-25 19:35:44,768 ERROR 6649 nodejs.ClusterClientNoResponseError: client no response in 6360017ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 6649
+hostname: maqixiangdeMacBook-Pro.local
+
+2020-04-25 21:23:43,045 ERROR 6649 nodejs.ClusterClientNoResponseError: client no response in 6478177ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 6649
+hostname: maqixiangdeMacBook-Pro.local
+
+2020-04-26 00:59:57,645 ERROR 6649 nodejs.ClusterClientNoResponseError: client no response in 12954595ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 6649
+hostname: maqixiangdeMacBook-Pro.local
+
+2020-04-26 02:48:08,283 ERROR 6649 nodejs.ClusterClientNoResponseError: client no response in 6490590ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 6649
+hostname: maqixiangdeMacBook-Pro.local
+
+2020-04-26 04:36:19,489 ERROR 6649 nodejs.ClusterClientNoResponseError: client no response in 6491186ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 6649
+hostname: maqixiangdeMacBook-Pro.local
+
+2020-04-28 23:16:22,281 ERROR 6649 nodejs.ClusterClientNoResponseError: client no response in 239982743ms exceeding maxIdleTime 60000ms, maybe the connection is close on other side.
+    at Timeout._onTimeout (/Users/maqixiang/Desktop/my/github/myLibrary/mj_script_company/node_modules/cluster-client/lib/leader.js:77:23)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+name: "ClusterClientNoResponseError"
+pid: 6649
+hostname: maqixiangdeMacBook-Pro.local
+
